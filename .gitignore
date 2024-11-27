@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*py[cod]
+.venv/
+
+# Environment
+.env
+
+# Migrations
+migrations
+
+# Docker
+*.pid
+*.log
+.dockerignore
+
+# IDE
+.vscode/
+.idea/
